@@ -19,6 +19,7 @@ An all-in-one robot built during the 7-day Robotics Workshop at Robotics Club, P
 ## Team
 - Anukul Dhakal
 - Kapil Paudel
+- Deepa Sharma
 - Aayush Dhakal
 - Barsha Bhandari
 
